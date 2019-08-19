@@ -1,0 +1,38 @@
+
+/*              *
+ *    HEADER    *
+ *              */
+
+#header {
+    text-transform: uppercase;
+}
+
+#banner {
+    height: 60px;
+    background-color: darkblue;
+    width: 100%;
+    margin-top: 75px;
+    text-align: -webkit-center;
+    text-align: -moz-center;
+    text-align: center;
+    font-variant-caps: normal;
+    color: #c0bdc7;
+    text-transform: uppercase;
+    font-weight: bold;
+    display: inline-block;
+}
+
+#banner h4 {
+    font-family: Ubuntu, sans-serif;
+}
+
+#banner a {
+    color: #c0bdc7;
+    text-decoration: none;
+}
+
+#nav-dropdown a {
+    text-align: center;
+    text-align: -webkit-center;
+    text-align: -moz-center;
+}
