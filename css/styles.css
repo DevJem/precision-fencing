@@ -36,3 +36,38 @@
     text-align: -webkit-center;
     text-align: -moz-center;
 }
+
+
+/*              *
+ *    INDEX     *
+ *              */
+
+#fence-types {
+    margin-top: 50px;
+}
+
+.fence-list > .card {
+    opacity: .5;
+}
+.fence-list > .card:hover {
+    opacity: 1;
+    transition: opacity .25s ease-in-out;
+}
+
+.fence-list > .col-md-8 {
+    margin-bottom: 20px;
+}
+
+.row p {
+    margin-top: 35px;
+    font-size: large;
+    font-family: Serif;
+}
+
+#why-us {
+    margin-top: 30px;
+}
+
+#why-us h4 {
+    text-transform: uppercase;
+}
